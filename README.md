@@ -165,8 +165,8 @@ Ask a research question and get a detailed answer.
 
 **Hamas** — Computer Engineering Graduate | AI Engineer in Progress
 
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+- LinkedIn: https://www.linkedin.com/in/hamas-ahmed-abb31327a/
+- GitHub: https://github.com/ihamas
 
 ---
 
