@@ -1,3 +1,6 @@
+# Live URL
+https://ai-research-assistant-production-fa75.up.railway.app/docs#/default/ask_ask_post
+
 # 🔬 AI Research Assistant
 
 An intelligent research agent built with **LangGraph** and **FastAPI** that autonomously searches Wikipedia and arXiv to answer research questions. Unlike a simple chatbot, this agent evaluates the quality of its own research and loops back to search again if the information isn't good enough — only stopping when it's confident in the answer.
