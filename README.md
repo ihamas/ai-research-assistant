@@ -159,14 +159,13 @@ Ask a research question and get a detailed answer.
 - [ ] Add more search tools (Google Scholar, PubMed)
 - [ ] Stream responses in real time
 - [ ] Add memory for follow-up questions
-- [ ] Deploy to cloud (Railway / Render)
 - [ ] Build a frontend UI
 
 ---
 
 ## 👨‍💻 Author
 
-**Hamas** — Computer Engineering Graduate | AI Engineer in Progress
+**Hamas** — Computer Engineering Graduate | AI Engineer
 
 - LinkedIn: https://www.linkedin.com/in/hamas-ahmed-abb31327a/
 - GitHub: https://github.com/ihamas
